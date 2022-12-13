@@ -5,7 +5,6 @@
 
 A SkyBlock Flipping Mod.
 
-Discord - https://www.notenoughskids.tk<br/>
 NotEnoughSkids - https://www.notenoughskids.tk
 
 - `/coinskids` - Shows the config GUI
