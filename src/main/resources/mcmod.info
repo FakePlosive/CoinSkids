@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "CoinSkids",
+    "name": "CoinSkids",
+    "description": "Become PRO in Hypixel Skyblock.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://www.notenoughskids.tk/",
+    "updateUrl": "https://www.notenoughskids.tk/",
+    "authorList": [
+      "Throwing"
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
