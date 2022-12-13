@@ -1,4 +1,4 @@
-# Future versions of CoinSkids will be put behind a paywall. You can purchase it at https://www.notenoughskids.tk . This is to ensure that the project can continue to be maintained.
+
 
 # CoinSkids
 
