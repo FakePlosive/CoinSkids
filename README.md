@@ -5,7 +5,7 @@
 
 A SkyBlock Flipping Mod.
 
-CoinSkids - https://www.notenoughskids.tk/coinskids (Details here)
+CoinSkids - https://www.skyqol.tk/coinskids (Details here)
 
 - `/coinskids` - Shows the config GUI
 - `/coinskids help` - Shows the help message containing all the subcommands and their usage
