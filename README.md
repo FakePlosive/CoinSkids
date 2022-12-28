@@ -38,6 +38,7 @@ Press the windows key + R; type `%appdata%`; click on the folder called `.minecr
  - Volume Tracker
  
  Discord - https://discord.gg/TUBBm49P9A
+ 
  CoinSkids - https://sites.google.com/view/notenoughskids/coinskids (Details here)
  
 
