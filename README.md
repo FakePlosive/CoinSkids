@@ -37,7 +37,8 @@ Press the windows key + R; type `%appdata%`; click on the folder called `.minecr
  - Bazaar Flipper
  - Volume Tracker
  
+ Discord - https://discord.gg/TUBBm49P9A
  CoinSkids - https://sites.google.com/view/notenoughskids/coinskids (Details here)
-
+ 
 
 # We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
