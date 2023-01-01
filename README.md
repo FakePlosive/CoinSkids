@@ -5,7 +5,9 @@ CoinSkids is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock.
 
 This mod is competely virus-free and open-source! [VirusTotal](https://www.virustotal.com/gui/file/9ac4c1d0e574a2e8d28caae88c74ff6e934756b5479d852df3c4cd1981267016)
 
+
 Join our [Discord Server](https://discord.gg/F5zpbJnHsh) for support!
+
 # Getting Started
 
 ## Installing Forge
@@ -40,10 +42,5 @@ Press the windows key + R; type `%appdata%`; click on the folder called `.minecr
  - Manupulated price checker
  - Bazaar Flipper
  - Volume Tracker
- 
- Discord - https://discord.gg/F5zpbJnHsh
- 
- CoinSkids - https://sites.google.com/view/notenoughskids/coinskids (Details here)
- 
 
 # We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
