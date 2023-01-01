@@ -1,8 +1,8 @@
 
 <h1 align="center">CoinSkids</h1>
 CoinSkids is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock.
-This mod is competely virus-free and open-source! [VirusTotal](https://www.virustotal.com/gui/file/9ac4c1d0e574a2e8d28caae88c74ff6e934756b5479d852df3c4cd1981267016)
-Join our [Discord Server](https://discord.gg/F5zpbJnHsh) for support!
+This mod is competely virus-free and open-source! [VirusTotal] (https://www.virustotal.com/gui/file/9ac4c1d0e574a2e8d28caae88c74ff6e934756b5479d852df3c4cd1981267016)
+Join our [Discord Server] (https://discord.gg/F5zpbJnHsh) for support!
 # Getting Started
 
 ## Installing Forge
