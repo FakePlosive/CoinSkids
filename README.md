@@ -25,7 +25,7 @@ Join our [Discord Server](https://discord.gg/F5zpbJnHsh) for support!
 Press the windows key + R; type `%appdata%`; click on the folder called `.minecraft`; click on the folder called `mods` and drag the mods file in here.
 3. Open the Minecraft launcher and run your forge installation you set up earlier.
 4. Then, hop onto Skyblock and run the command `/api new`. Your api key is automatically filled out and all features should work.
-5. Type `/CoinSkids`. If you see the NotEnoughUpdates menu, you have done this correctly!
+5. Type `/CoinSkids`. If you see the CoinSkids menu, you have done this correctly!
 
 ## Commands
 - `/coinskids` - Shows the config GUI
