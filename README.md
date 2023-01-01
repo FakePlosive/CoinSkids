@@ -1,12 +1,11 @@
 
 <h1 align="center">CoinSkids</h1>
 CoinSkids is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock.
-This mod is competely virus-free and open-source! Feel free to use it!
-https://www.virustotal.com/gui/file/9ac4c1d0e574a2e8d28caae88c74ff6e934756b5479d852df3c4cd1981267016
+This mod is competely virus-free and open-source! [VirusTotal](https://www.virustotal.com/gui/file/9ac4c1d0e574a2e8d28caae88c74ff6e934756b5479d852df3c4cd1981267016)
+Join our [Discord Server](https://discord.gg/F5zpbJnHsh) for support!
+# Getting Started
 
-## Getting Started
-
-#### Installing Forge
+## Installing Forge
 
 1. Run normal Minecraft 1.8.9 and once it reaches the title screen wait about 5 seconds and close it.
 2. Install Minecraft **1.8.9** forge from the [forge website](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html)
@@ -15,7 +14,7 @@ https://www.virustotal.com/gui/file/9ac4c1d0e574a2e8d28caae88c74ff6e934756b5479d
 4. When forge is installed, open the Minecraft launcher, go under the `installations tab`, click `new installation`, select the version release `1.8.9-forge1.8.9-11.15.1.xxxx` (it will usually be all the way towards the bottom).
 5. Once you are done, run this new installation that you just created. Once it reaches the title screen, wait about 5 seconds and close it.
 
-#### Installing the CoinSkids mod
+## Installing the CoinSkids mod
 
 1. Download the latest mod [release](https://github.com/FakePlosive/CoinSkids). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
 2. Add the CoinSkids mod:
