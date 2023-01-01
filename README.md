@@ -9,7 +9,6 @@ This mod is competely virus-free and open-source! [VirusTotal](https://www.virus
 Join our [Discord Server](https://discord.gg/F5zpbJnHsh) for support!
 
 # Getting Started
-
 ## Installing Forge
 
 1. Run normal Minecraft 1.8.9 and once it reaches the title screen wait about 5 seconds and close it.
