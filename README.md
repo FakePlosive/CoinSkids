@@ -1,4 +1,4 @@
-<img align="left" width="250" height="200" src="https://yt3.ggpht.com/ytc/AMLnZu_UGqIFHiKGS0Z8pJjjiWCfcoDK9OKwGdReKVZXog=s900-c-k-c0x00ffffff-no-rj" alt="CoinSkids">
+<img align="left" width="250" height="250" src="https://yt3.ggpht.com/ytc/AMLnZu_UGqIFHiKGS0Z8pJjjiWCfcoDK9OKwGdReKVZXog=s900-c-k-c0x00ffffff-no-rj" alt="CoinSkids">
 <h1 align="center">CoinSkids</h1>
 CoinSkids is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock.
 
